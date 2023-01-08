@@ -26,5 +26,5 @@ Do not hesitate to contact me.
 
 [My Resume](https://drive.google.com/file/d/1ITUGkh-slFo0ANJLppp9pUPmUP01IXLJ/view?usp=sharing)
 
-Do not hesitate to contact me.
-[mahmoudhamdyae@gmail.com](mahmoudhamdyae@gmail.com)
+Do not hesitate to contact me. 
+[mahmoudhamdyae@gmail.com] (mahmoudhamdyae@gmail.com)
