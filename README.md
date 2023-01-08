@@ -23,6 +23,6 @@ I am looking to upgrade my knowledge, Learn new techniques and skills , and also
 Do not hesitate to contact me.
 [mahmoudhamdyae@gmail.com] (mahmoudhamdyae@gmail.com)
 
-[Connect with me](www.linkedin.com/in/mahmoudhamdyae)
+[Connect with me](https:://www.linkedin.com/in/mahmoudhamdyae)
 [MVVM Arch](https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture)
 [MVVM Arch](https://www.toptal.com/android/android-apps-mvvm-with-clean-architecture)
