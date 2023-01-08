@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a skilled android developer with passion for development, in-depth knowledge of OOP Concepts, Java, Kotlin, MVP, MVVM, Firebase, Jetpack Compose , Coroutines , Material Design, Rest full API, Dagger 2, third party libraries, SQLite, Room , Android SDKs, Git ,Agile .
 I am looking to upgrade my knowledge, Learn new techniques and skills , and also have some fun .
 
-[Connect with me](www.linkedin.com/in/mahmoudhamdyae)
+[Connect with me](https://www.linkedin.com/in/mahmoudhamdyae)
 
 [My Resume](https://drive.google.com/file/d/1ITUGkh-slFo0ANJLppp9pUPmUP01IXLJ/view?usp=sharing)
 
