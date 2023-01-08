@@ -19,11 +19,6 @@ I am looking to upgrade my knowledge, Learn new techniques and skills , and also
 
 [Connect with me](www.linkedin.com/in/mahmoudhamdyae)
 
-Do not hesitate to contact me.
-[mahmoudhamdyae@gmail.com](mahmoudhamdyae@gmail.com)
-
-[Connect with me](https:://www.linkedin.com/in/mahmoudhamdyae)
-
 [My Resume](https://drive.google.com/file/d/1ITUGkh-slFo0ANJLppp9pUPmUP01IXLJ/view?usp=sharing)
 
 Do not hesitate to contact me. 
