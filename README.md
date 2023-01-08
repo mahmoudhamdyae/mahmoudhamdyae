@@ -22,4 +22,4 @@ I am looking to upgrade my knowledge, Learn new techniques and skills , and also
 [My Resume](https://drive.google.com/file/d/1ITUGkh-slFo0ANJLppp9pUPmUP01IXLJ/view?usp=sharing)
 
 Do not hesitate to contact me. 
-[mahmoudhamdyae@gmail.com](mahmoudhamdyae@gmail.com)
+mahmoudhamdyae@gmail.com
