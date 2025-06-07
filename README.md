@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a skilled android developer with passion for development, in-depth knowledge of OOP Concepts, Java, Kotlin, MVP, MVVM, Firebase, Jetpack Compose , Coroutines , Material Design, Rest full API, Dagger 2, third party libraries, SQLite, Room , Android SDKs, Git ,Agile .
-I am looking to upgrade my knowledge, Learn new techniques and skills , and also have some fun .
+A mobile software engineer specializing in Flutter development, I'm committed to building high-performance, cross-platform mobile applications. My comprehensive background in mobile development, including Android (Java/Kotlin), KMP, and iOS (Swift), allows me to approach projects with a strong understanding of the mobile ecosystem. My foundation in core programming principles (data structures, algorithms, SOLID, OOP, design patterns) ensures the development of scalable and maintainable solutions.
 
 [Connect with me](https://www.linkedin.com/in/mahmoudhamdyae)
 
-[My Resume](https://drive.google.com/file/d/148afNKdtZcLeG15RBDlUpe0fjCG5br-e/view)
+[My Resume](https://drive.google.com/file/d/1ApS_7fCUqBUKrDUFPiBrITPFgvYX3SK4/view?usp=drive_link)
 
 Do not hesitate to contact me. 
 mahmoudhamdyae@gmail.com
